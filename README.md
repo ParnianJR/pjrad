@@ -1,4 +1,4 @@
-# pjrad 1
+﻿# pjrad 1
  2
  3
  4
@@ -59,6 +59,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Bullet Point
 
-* Bullet 1
-* Bullet 2
+
 * etc
